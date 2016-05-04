@@ -1,1 +1,1 @@
-# ngconf
+# ngconf 2016 notes
