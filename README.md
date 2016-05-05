@@ -97,8 +97,48 @@ tynyurl.com/tssecretweapon
 
 
 ## Angular Universal
+server side rendering
 
 
+## rethinkdb
+horizon.io
 
+
+## Routing
+@Routes([]}
+
+petebacondarwin.github.io/ng1-component-demo
+
+ng-conf.org
+
+augury.angular.io
+chrome dev tool
+
+## Angular Material 1
+mdPanel service
+
+material.angular.io
+
+## Protractor = testing tasks
+zone.js
+zones track and control asynchrounus activity
+
+github.com/angular/zone.js
+
+## NativeScript 2
+animations
+bit.ly/nativescript-angular-seed
+
+## ng2 art
+teropa.info/chime
+
+teropa windchimes
+
+## Progressive web app
+mobile.angular.io
+
+angular cli:   ng new --mobile
+github.com/angular/issue-zero
+github.com/angular/mobile-toolkit
 
 
