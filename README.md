@@ -178,3 +178,9 @@ ng g route hero-detail --inline-template --inline-style
 ng g r hero-list -it -is    : generate route inline template inline style
 
 cli.angular.io
+
+
+### ng material demo
+https://github.com/kara/puppy-love
+
+**codelyzer
