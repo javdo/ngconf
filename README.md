@@ -147,3 +147,34 @@ github.com/angular/mobile-toolkit
 https://github.com/angular/universal-starter
 
 https://github.com/angular/universal/tree/master/modules/preboot
+
+## ngconf slides
+github.com/mikedice 
+
+### ng cli
+ng build
+ng test
+ng e2e
+ng serve
+ng deploy (github pages, firebase)
+
+ng g component my-comp
+ng g directive my-dir
+ng g pipe, service, route, class ...
+
+### demo
+ng new my-app --prefix myapp
+cd my-app
+ng test --no-watch
+ng serve
+ng g class shared/hero model
+ng g service shared/hero
+gitwip
+gitlog
+ng g route dashboard
+ng build
+ng test
+ng g route hero-detail --inline-template --inline-style
+ng g r hero-list -it -is    : generate route inline template inline style
+
+cli.angular.io
